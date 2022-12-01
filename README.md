@@ -1,1 +1,1 @@
-# logestic-Regression
+# logestic-Regression model
