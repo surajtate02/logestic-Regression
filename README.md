@@ -1,1 +1,1 @@
-# logestic-Regression model
+# logestic-Regression iris dataset model
